@@ -8,8 +8,6 @@
 
 [![哔哩哔哩](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%8D%97%E5%AE%AB%E7%92%83-pink)](https://space.bilibili.com/311709021)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white)](https://developer.android.google.cn/)
